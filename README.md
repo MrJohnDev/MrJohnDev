@@ -1,16 +1,19 @@
-### Hi there 👋
+## You found me! 👋
 
-<!--
-**MrJohnDev/MrJohnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Well, you did it, you found me! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Statistics
+<a href="https://github.com/MrJohnDev/MrJohnDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrJohnDev&count_private=false&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/MrJohnDev/MrJohnDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJohnDev&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
+
+<br />
+<br />
+<br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MrJohnDev.MrJohnDev" alt="visitor badge"/>   
