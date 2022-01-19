@@ -16,10 +16,10 @@
 <h2 align="center">Statistics</h2> 
 <p align="center">
 <a href="https://github.com/MrJohnDev/MrJohnDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrJohnDev&count_private=false&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api?username=MrJohnDev&count_private=false&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MrJohnDev/MrJohnDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJohnDev&layout=compact&theme=tokyonight&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api/top-langs/?username=MrJohnDev&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 </p>
 <br />
