@@ -8,8 +8,10 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/MrJohnDev/MrJohnDev"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/MrJohnDev"/
+ <a href="https://github.com/MrJohnDev?tab=repositories">
+   <img src="https://badges.pufler.dev/repos/MrJohnDev"/>
+</a>
+
 
 </p>
 
