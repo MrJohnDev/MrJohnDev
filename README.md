@@ -18,13 +18,13 @@
 <h2 align="center">Statistics</h2> 
 <p align="center">
 <a href="https://github.com/MrJohnDev/MrJohnDev">
-  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api?username=MrJohnDev&count_private=false&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api?username=MrJohnDev&count_private=true&show_icons=true&theme=default" />
  <!--START_SECTION:update_image-->
 <!--END_SECTION:update_image-->
 </a>
 <br />
 <a href="https://github.com/MrJohnDev/MrJohnDev">
-  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api/top-langs/?username=MrJohnDev&layout=compact&theme=default&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api/top-langs/?username=MrJohnDev&layout=compact&theme=default&langs_count=8&count_private=true" />
 </a>
 </p>
 <br />
