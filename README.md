@@ -19,6 +19,8 @@
 <p align="center">
 <a href="https://github.com/MrJohnDev/MrJohnDev">
   <img align="center" src="https://github-readme-stats-eight-dun.vercel.app/api?username=MrJohnDev&count_private=false&show_icons=true&theme=default" />
+ <!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
 </a>
 <br />
 <a href="https://github.com/MrJohnDev/MrJohnDev">
