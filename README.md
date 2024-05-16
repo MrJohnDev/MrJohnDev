@@ -1,23 +1,9 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/71008947/174482202-c5acd0c3-9a5d-4415-bd64-f42347660f1a.png" width="24" height="24" /> Flutter Middle Developer</h1>
-
-
-<p align="center">
- 
  <!--img src="https://badges.pufler.dev/visits/MrJohnDev/MrJohnDev"/> 
  <a href="https://github.com/MrJohnDev?tab=repositories">
    <img src="https://badges.pufler.dev/repos/MrJohnDev"/>
 </a-->
-
- 
-
-
-Provider, factory, http, l10n, CI (GitLab), Makefile, Docker, Firebase Cloud Message (+APN), DeepLinks, NTLM, Figma, Flame (Flutter), dotenv, in_app_update, Hero (Animation), Pagination
- 
- 
-
-</p>
-
 <!--h2 align="center">Statistics</h2> 
 <p align="center">
 <a href="https://github.com/MrJohnDev/MrJohnDev">
